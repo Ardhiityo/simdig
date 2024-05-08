@@ -1,0 +1,17 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.link a {
+    text-decoration: none;
+    padding: 0.3rem;
+}
+
+.button button {
+     margin: 5px;
+}
+
+img {
+    width: 22vmax;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
